@@ -7,6 +7,7 @@ Para a entrega você deve escolher pelo menos 2 desses arquivos e repetir o proc
 Por exemplo, caso você escolha o de filmes e o de plantas, para cada um deles você deve criar uma branch no seu repositório e criar um projeto do zero para ele, com uma pasta src que possui controller, model e route, usando os mesmo pacotes npm que usamos em aula (nodemon e express).
 
 - Exemplo:
+```js
 branch servidor-filmes
 
 servidor-filmes
@@ -23,7 +24,7 @@ servidor-filmes
     package-lock.json
     package.json
     server.js
-
+```
 Essa será a visão da sua pasta LOCAL. Não se esqueça de criar o arquivo .gitignore :)
 
 
