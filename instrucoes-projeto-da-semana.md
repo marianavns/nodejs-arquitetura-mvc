@@ -1,4 +1,4 @@
-Instrutora que elaborou o exercício: [Paula Allemand](https://github.com/itsalle)
+### Instrutora que elaborou o exercício: [Paula Allemand](https://github.com/itsalle)
 
 Lembra todos os arquivos .json que você fez na última semana?
 Chegou a hora de usá-los \o/
