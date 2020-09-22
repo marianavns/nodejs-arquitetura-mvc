@@ -5,7 +5,7 @@ const index = require('./route/index')
 const movies = require('./route/moviesRoute')
 
 app.use((req, res, next) => {
-    console.log('Nova requisicao realizada')
+    console.log('Uma nova requisição foi feita')
     next()
 })
 
