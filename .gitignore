@@ -1,6 +1,8 @@
 /node_modules
 package-lock.json
 
+/servidor-african-countries
 /servidor-movies
 /Images
 rascunho.js
+arquiteturaMVC.md
