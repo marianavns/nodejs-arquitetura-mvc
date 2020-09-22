@@ -1,5 +1,6 @@
 /node_modules
 package-lock.json
 
+/servidor-movies
 /Images
 rascunho.js
