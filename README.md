@@ -1,8 +1,8 @@
 # Exercício da semana
 
- [Instruções](#Instruções)
+- [Instruções](#Instruções)
 
---> [Respostas dos Exercícios](#Respostas-dos-Exercícios)
+- --> [Respostas dos Exercícios](#Respostas-dos-Exercícios)
 
 
 ## Instruções
